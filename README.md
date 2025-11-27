@@ -1,6 +1,12 @@
-# Event_RainDrop
+# Event_RainDrop 
+
+
+**EvRainDrop: HyperGraph-guided Completion for Effective Frame and Event Stream Aggregation**, 
+Futian Wang, Fan Zhang, Xiao Wang*, Mengqi Wang, Dexing Huang, Jin Tang, arXiv:2511.21439 
 
 <!--### News--> 
+
+* [2025.11.27] arXiv version of this work is available at [[arXiv:2511.21439](https://arxiv.org/abs/2511.21439)]
 
 
 ### Abstract 
@@ -57,3 +63,14 @@ bash train.sh
 
 ### Citation 
 If you have any questions about this work, please leave an issue. Also, please give us a star if you think this paper helps your research.
+```
+@misc{wang2025EvRainDrop,
+      title={EvRainDrop: HyperGraph-guided Completion for Effective Frame and Event Stream Aggregation}, 
+      author={Futian Wang and Fan Zhang and Xiao Wang and Mengqi Wang and Dexing Huang and Jin Tang},
+      year={2025},
+      eprint={2511.21439},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.21439}, 
+}
+```
